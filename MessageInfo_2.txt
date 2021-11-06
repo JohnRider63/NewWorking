@@ -1,1 +1,1 @@
-Bu git dosyasının ikinci doldurulduğu yerdir. Bu dosya yeniden yazılmıştır.
+Bu git dosyasının ikinci doldurulduğu yerdir. Bu dosya yeniden yazılmıştır. Şimdi bu dosyayı yeniden gözden geçiriyoruz.
