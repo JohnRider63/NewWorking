@@ -1,1 +1,1 @@
-Bu git dosyasının ikinci doldurulduğu yerdir.
+Bu git dosyasının ikinci doldurulduğu yerdir. Dosya üzerinde değişiklik yapılmıştır.
